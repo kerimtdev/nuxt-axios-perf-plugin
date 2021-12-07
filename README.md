@@ -1,6 +1,6 @@
 # Axios Performance Logger 
 
-This plugin created for monitoring request performance on NuxtJS.
+This plugin created for monitoring requests performance on NuxtJS.
 
 
 ## Installation 
