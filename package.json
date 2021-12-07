@@ -1,6 +1,6 @@
 {
   "name": "nuxt-axios-perf-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This plugin created for monitoring axios requests on NuxtJS.",
   "main": "index.js",
   "keywords": ["nuxt", "axios"],
