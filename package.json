@@ -1,0 +1,14 @@
+{
+  "name": "nuxt-axios-perf-plugin",
+  "version": "1.0.0",
+  "description": "This plugin created for monitoring axios requests on NuxtJS.",
+  "main": "index.js",
+  "keywords": ["nuxt", "axios"],
+  "author": "Kerim Tuncer <kerimtdev@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kerimtdev/nuxt-axios-perf-plugin.git"
+  },
+  "homepage": "https://github.com/kerimtdev/nuxt-axios-perf-plugin#readme",
+  "license": "ISC"
+}
